@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- House Shape -->
+  <path d="M256 32L32 224h64v224h320V224h64L256 32z" fill="none"/>
+  
+  <!-- Left Side (Green) -->
+  <path d="M256 64 L100 200 L100 400 L250 400 L250 69 Z" fill="#10b981"/>
+  
+  <!-- Right Side (Dark Grey) -->
+  <path d="M262 69 L262 400 L412 400 L412 200 Z" fill="#333333"/>
+  
+  <!-- Hammer (Negative Space/White on Green) -->
+  <path d="M160 250 L160 350 M140 250 H180 V280 H140 Z M130 250 Q160 220 190 250" stroke="white" stroke-width="20" stroke-linecap="round" fill="none" transform="rotate(-45 160 300)"/>
+  <!-- Simplified Hammer Icon -->
+  <path d="M150 220 L190 220 L190 250 L180 250 L180 340 L160 340 L160 250 L150 250 Z" fill="white" transform="translate(-10, 20)"/>
+
+  <!-- Wrench (White on Grey) -->
+  <path d="M340 220 L340 340" stroke="white" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="340" cy="220" r="25" fill="none" stroke="white" stroke-width="12"/>
+  <path d="M330 200 L330 240 M350 200 L350 240" stroke="#333333" stroke-width="5"/>
+  
+  <!-- Paintbrush (Bottom) -->
+  <path d="M100 420 H412 V450 Q412 470 392 470 H120 Q100 470 100 450 Z" fill="#10b981"/>
+  <rect x="100" y="405" width="312" height="15" fill="#e5e7eb"/>
+</svg>
